@@ -1,3 +1,46 @@
+# Hi there! 👋 I'm Sara.
+
+🎓 I'm a Computer Science undergrad student  with a minor in **Data Science** and **Robotics**, passionate about technology and its application in real-world.  
+
+💡 Currently seeking **internship**, **working student**, or **job opportunities** in the fields of:
+- Software Development
+- Data Science / Machine Learning
+- Human-Centered Computing  
+
+---
+
+## 👩‍💻 Tech I'm Into
+- 💻 Languages: Python, C, C++, JavaScript  
+- 📊 Data: Pandas, NumPy, scikit-learn, SQL  
+- 🤖 Robotics: ROS, Arduino, real-time systems  
+- 🌐 Web: HTML, CSS, JS, React,SQL 
+- 📦 Tools: Git, GitHub, VS Code, Linux, Docker 
+
+---
+
+## 🖌️ Beyond Code
+When I'm not coding, you'll find me:
+- 🎨 Painting 
+- 📚 Getting lost in novels.
+- ☕ At a café, dreaming up ideas for my next project  
+
+---
+
+## 🌱 What I'm Up To
+- Contributing to open-source projects  
+- Working on personal projects that merge tech + creativity contributing to real world. 
+- Prepping for internship/job interviews . 
+- Expanding my skills in AI, robotics,  system design and data science. 
+
+---
+
+##Let’s Connect!
+
+- 🔗 LinkedIn: www.linkedin.com/in/saragaire
+
+
+
+ Let's build something amazing together. 
 
 
 # 💻 Tech Stack:
