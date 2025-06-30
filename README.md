@@ -20,9 +20,9 @@
 
 ## 🖌️ Beyond Code
 When I'm not coding, you'll find me:
-- 🎨 Painting 
-- 📚 Getting lost in novels.
-- ☕ At a café, dreaming up ideas for my next project  
+- 🎨 Painting,Playing chess,writing
+- 📚 Getting lost in novels (specially russian writers)
+- Planning about project and coming up with ideas. 
 
 ---
 
@@ -30,7 +30,7 @@ When I'm not coding, you'll find me:
 - Contributing to open-source  projects. 
 - Working on personal projects that merge tech + creativity contributing to real world. 
 - Preparing  for internship/job interviews and challenges. 
-- Expanding my skills in AI, Robotics,  System Design, Human Computer Interaction and Data Science. 
+- Expanding my skills in , Machine Learning ,AI, Robotics,  System Design, Human Computer Interaction and Data Science. 
 
 ---
 
