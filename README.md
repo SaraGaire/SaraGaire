@@ -35,7 +35,8 @@
 
 ##Let’s Connect!
 
-- 🔗 LinkedIn: www.linkedin.com/in/saragaire
+- LinkedIn: www.linkedin.com/in/saragaire
+- E-mail: saragaire02@gmail.com
 
 
 
