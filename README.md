@@ -1,25 +1,26 @@
-# Hi there! 👋 I'm Sara Gaire.
+# Hi/hallo I'm Sara.G.
 
-🎓 I'm a Computer Science undergraduate student  with a minor in **Data Science** and **Robotics**, passionate about technology and its application in real-world.  
+ I'm a Computer Science undergraduate student  with a minor in **Data Science** and **Robotics and Itelligence systems**, passionate about technology and it's real world application.
 
-💡 Currently seeking **internship**, **working student**, or **job opportunities** in the fields of:
+ Currently seeking **internship**, **working student**, or **job opportunities** in the fields of:
 - Software Development.
 - Data Science / Machine Learning.
 - Human-Centered Computing.
+- Artificial Intelligence.
 
 ---
 
-##  Tech I'm Into
-- 💻 Languages: Python, C, C++, JavaScript 
-- 📊 Data: Pandas, NumPy, scikit-learn, SQL  
-- 🤖 Robotics: ROS, Arduino, real-time systems  
-- 🌐 Web: HTML, CSS, JS, React,SQL 
-- 📦 Tools: GitHub, VS Code, Linux, Docker 
+##  Technology
+- Languages: Python, C, C++, JavaScript 
+-  Data: Pandas, NumPy, scikit-learn, SQL  
+-  Robotics: ROS, Arduino, real-time systems  
+- Web: HTML, CSS, JS, React,SQL 
+-  Tools: GitHub, VS Code, Linux, Docker 
 
 ---
 
 ## Beyond Code
-When I'm not coding, you'll find me:
+- When I'm not coding, you'll find me:
 - I love writing poems and crocheting.
 - Planning about project and coming up with ideas. 
 
