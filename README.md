@@ -1,4 +1,4 @@
-# Hi/hallo I'm Sara.G.
+# Hi/hallo I'm Sara.G
 
  I'm a Computer Science undergraduate student  with a minor in **Data Science** and **Robotics and Itelligence systems**, passionate about technology and it's real world application.
 
