@@ -9,27 +9,25 @@
 
 ---
 
-## 👩‍💻 Tech I'm Into
+##  Tech I'm Into
 - 💻 Languages: Python, C, C++, JavaScript 
 - 📊 Data: Pandas, NumPy, scikit-learn, SQL  
 - 🤖 Robotics: ROS, Arduino, real-time systems  
 - 🌐 Web: HTML, CSS, JS, React,SQL 
-- 📦 Tools: Git, GitHub, VS Code, Linux, Docker 
+- 📦 Tools: GitHub, VS Code, Linux, Docker 
 
 ---
 
-## 🖌️ Beyond Code
+## Beyond Code
 When I'm not coding, you'll find me:
-- 🎨 Painting,Playing chess,writing
-- 📚 Getting lost in novels (specially russian writers)
+- I love writing poems and crocheting.
 - Planning about project and coming up with ideas. 
 
 ---
 
-## 🌱 What I'm Up To
+## What I'm Up To
 - Contributing to open-source  projects. 
 - Working on personal projects that merge tech + creativity contributing to real world. 
-- Preparing  for internship/job interviews and challenges. 
 - Expanding my skills in , Machine Learning ,AI, Robotics,  System Design, Human Computer Interaction and Data Science. 
 
 ---
