@@ -1,6 +1,6 @@
-# Hi/hallo I'm Sara.G
+# Sara Gaire
 
- I'm a Computer Science undergraduate student  with a minor in **Data Science** and **Robotics and Itelligence systems**, passionate about technology and it's real world application.
+Hello/halo I'm a Computer Science undergraduate student  with a minor in **Data Science** and **Robotics and Itelligence systems**, passionate about technology   and it's real world application. I am highly motivated to explore these fields and apply it through hands-on projects, research,and real-world industry experience.
 
  Currently seeking **internship**, **working student**, or **job opportunities** in the fields of:
 - Software Development.
