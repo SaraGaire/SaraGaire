@@ -11,10 +11,10 @@ Hello/halo I'm a Computer Science undergraduate student  with a minor in **Data 
 ---
 
 ##  Technology
-- Languages: Python, C, C++, JavaScript 
--  Data: Pandas, NumPy, scikit-learn, SQL  
+- Languages: Python, C, C++, JavaScript,rust,typescript,Api,AWS
+-  Data: Pandas, NumPy, scikit-learn,matlab,ananlysis
 -  Robotics: ROS, Arduino, real-time systems  
-- Web: HTML, CSS, JS, React,SQL 
+- Web: HTML, CSS, JS, React,SQL,node js 
 -  Tools: GitHub, VS Code, Linux, Docker 
 
 ---
