@@ -1,5 +1,4 @@
 # Sara Gaire
-
 **Computer Science Undergraduate**  
 Minor in **Data Science** and **Robotics & Intelligent Systems**
 
@@ -44,7 +43,7 @@ I enjoy blending creativity with technical problem-solving.
 
 ---
 
-## What I’m Working On
+## What I'm Working On
 - Contributing to open-source projects  
 - Building personal projects that merge **technology and creativity**  
 - Expanding skills in:
@@ -56,16 +55,15 @@ I enjoy blending creativity with technical problem-solving.
 
 ---
 
-## Let’s Connect
+## Let's Connect
 - **LinkedIn:** https://www.linkedin.com/in/saragaire  
 - **Email:** saragaire02@gmail.com  
 
-I’m open to collaborations, internships, research opportunities, and meaningful tech discussions.
+I'm open to collaborations, internships, research opportunities, and meaningful tech discussions.
 
 ---
 
 ## Tech Stack
-
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -87,10 +85,9 @@ I’m open to collaborations, internships, research opportunities, and meaningfu
 ---
 
 ## GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaraGaire&theme=dark&hide_border=false)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=SaraGaire&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraGaire&theme=dark&layout=compact&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SaraGaire&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraGaire&layout=compact&theme=dark&hide_border=false)
 
 ---
 
