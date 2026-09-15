@@ -1,6 +1,5 @@
 # Sara Gaire
-**Computer Science Undergraduate**  
-Minor in **Data Science** and **Robotics & Intelligent Systems**
+**Computer Science Undergraduate**  and **Robotics & Intelligent Systems**
 
 I am a Computer Science undergraduate passionate about building real-world, impactful technology. My interests span **software engineering, data science, machine learning, robotics, and intelligent systems**. I enjoy learning through hands-on projects, open-source contributions, and continuous exploration of emerging technologies.
 
