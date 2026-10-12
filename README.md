@@ -1,7 +1,7 @@
 # Sara Gaire
 **Computer Science Undergraduate**  and **Robotics & Intelligent Systems**
 
-I am a Computer Science undergraduate passionate about building real-world, impactful technology. My interests span **software engineering, data science, machine learning, robotics, and intelligent systems**. I enjoy learning through hands-on projects, open-source contributions, and continuous exploration of emerging technologies.
+A Computer Science undergraduate passionate about building real-world, impactful technology. My interests span **software engineering, data science, machine learning, robotics, and intelligent systems**. I enjoy learning through projects, open source contributions, and continuous exploration of emerging technologie.
 
 ---
 
@@ -38,7 +38,7 @@ I am a Computer Science undergraduate passionate about building real-world, impa
 - Crocheting and creative crafting  
 - Planning projects and brainstorming new ideas  
 
-I enjoy blending creativity with technical problem-solving.
+I enjoy blending creativity with technical problem solving.
 
 ---
 
@@ -46,7 +46,7 @@ I enjoy blending creativity with technical problem-solving.
 - Contributing to open-source projects  
 - Building personal projects that merge **technology and creativity**  
 - Expanding skills in:
-  - Machine Learning & AI  
+  - Machine Learning & AI(Artificial Intelligence)  
   - Robotics  
   - System Design  
   - Human-Computer Interaction  
